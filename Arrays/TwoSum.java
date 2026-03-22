@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.ArrayList;
 
-public class TwoSum_Leetcode_1 {
+public class TwoSum {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//brute force solution
