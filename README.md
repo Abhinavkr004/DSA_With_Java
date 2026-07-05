@@ -15,6 +15,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 📂 Repository Structure
 
+```text
 DSA/
 ├── Arrays/
 ├── Strings/
@@ -35,7 +36,7 @@ DSA/
 ├── Bit Manipulation/
 ├── Tries/
 └── Miscellaneous/
-
+```
 Each folder contains solutions related to that specific topic.
 
 ---
