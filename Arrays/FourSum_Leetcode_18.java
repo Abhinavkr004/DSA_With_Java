@@ -35,10 +35,10 @@ class FourSum_Leetcode_18 {
         return list;
     } 
     public static void main(String[] args){
-        int[] nums = {2,2,2,2,2};
+        int[] arr = {2,2,2,2,2};
         int target = 8;
         List<List<Integer>> list = new ArrayList<>();
-        list = fourSum(nums,target);
+        list = fourSum(arr,target);
         System.out.println(list);
     }
 }
