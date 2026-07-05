@@ -87,7 +87,6 @@ Solutions may be implemented in:
 
 - C++
 - Java
-- Python
 
 ---
 
