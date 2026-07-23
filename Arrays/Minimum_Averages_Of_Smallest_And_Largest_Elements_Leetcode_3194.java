@@ -13,6 +13,8 @@ public class Minimum_Averages_Of_Smallest_And_Largest_Elements_Leetcode_3194 {
         }
         return min;
     }
+    // TC : O(nlogn + n)
+    // SC : O(1)
     public static void main(String[] args) {
         int[] nums = {7,8,3,4,15,13,4,1};
         double res = minimumAverage(nums);
