@@ -1,107 +1,122 @@
-📚 Data Structures & Algorithms (DSA) Practice
+# DSA with Java ☕
 
-Welcome to my DSA Practice Repository! 🚀
+This repository documents my **Data Structures and Algorithms (DSA)** journey using **Java**. It serves as a collection of coding practice, optimized solutions, and notes as I strengthen my understanding of core DSA concepts.
 
-This repository contains my solutions to Data Structures and Algorithms problems, organized topic-wise for easy navigation and systematic learning.
-
-🎯 Goal
-
-- Strengthen problem-solving skills.
-- Build a solid understanding of DSA concepts.
-- Prepare for coding interviews and competitive programming.
-- Maintain a structured record of solved problems.
+Currently, I have completed the **Arrays** topic and will continue adding more topics as I progress.
 
 ---
 
-📂 Repository Structure
+# 🚀 Journey Roadmap
+
+- [x] Arrays
+- [ ] Strings
+- [ ] Recursion
+- [ ] Searching
+- [ ] Sorting
+- [ ] Binary Search
+- [ ] Linked List
+- [ ] Stack
+- [ ] Queue
+- [ ] Hashing
+- [ ] Trees
+- [ ] Heap / Priority Queue
+- [ ] Graphs
+- [ ] Dynamic Programming
+- [ ] Greedy Algorithms
+- [ ] Backtracking
+
+---
+
+# 📂 Repository Structure
 
 ```text
 DSA/
-├── Arrays/
-├── Strings/
-├── Linked List/
-├── Stack/
-├── Queue/
-├── Recursion/
-├── Binary Search/
-├── Hashing/
-├── Sorting/
-├── Trees/
-├── Binary Search Trees/
-├── Heaps/
-├── Graphs/
-├── Dynamic Programming/
-├── Greedy/
-├── Backtracking/
-├── Bit Manipulation/
-├── Tries/
-└── Miscellaneous/
+└── Arrays/
 ```
-Each folder contains solutions related to that specific topic.
 
 ---
 
-📝 Solution Format
+# 📘 Phase 1: Arrays
 
-Each solution may include:
+**Folder:** `Arrays/`
 
-- ✅ Problem Name
-- ✅ Problem Link (if applicable)
-- ✅ Approach / Explanation
-- ✅ Time Complexity
-- ✅ Space Complexity
-- ✅ Code Solution
+This phase focuses on building a strong foundation in array manipulation, searching, sorting techniques, two-pointer approaches, and interview-based problem-solving patterns.
 
----
+## Problems Solved
 
-📌 Topics Covered
+- `LargestElement.java` – Largest Element in an Array
+- `SecondLargestElement.java` – Second Largest Element in an Array
+- `TwoSum.java` – Two Sum
+- `Best_Time_To_Buy_And_Sell_Stock_Leetcode_121.java` – Best Time to Buy and Sell Stock
+- `Check_if_N_and_its_double_exist_Leetcode_1346.java` – Check If N and Its Double Exist
+- `Container_With_Most_Water_Leetcode_11.java` – Container With Most Water
+- `Find_All_Repeating_Elements_In_An_Array.java` – Find All Repeating Elements in an Array
+- `Find_Greatest_Common_Divisor_Of_Array_Leetcode_1979.java` – Find Greatest Common Divisor of Array
+- `FourSum_Leetcode_18.java` – 4Sum
+- `Longest_Common_Prefix_Leetcode_14.java` – Longest Common Prefix
+- `Majority_Element_Leetcode_169.java` – Majority Element
+- `Maximum_Product_Of_Three_Numbers_Leetcode_628.java` – Maximum Product of Three Numbers
+- `Maximum_Subarray_Leetcode_53.java` – Maximum Subarray
+- `Merge_Sorted_Array_Leetcode_88.java` – Merge Sorted Array
+- `Minimum_Averages_Of_Smallest_And_Largest_Elements_Leetcode_3194.java` – Minimum Average of Smallest and Largest Elements
+- `Plus_One_Leetcvode_66.java` – Plus One
+- `Rank_TransForm_Of_an_Array_Leetcode_1331.java` – Rank Transform of an Array
+- `Remove_Duplicate_from_Sorted_Array_Leetcode_26.java` – Remove Duplicates from Sorted Array
+- `Remove_Element_Leetcode_27.java` – Remove Element
+- `Rotate_Array_By_K_Elements.java` – Rotate Array by K Elements
+- `Rotate_Image_Leetcode_48.java` – Rotate Image
+- `Search_Insert_Position_Leetcode_35.java` – Search Insert Position
+- `Sort_Colors_Leetcode_75.java` – Sort Colors
+- `Sum_Of_Unique_Elements_Leetcode_1748.java` – Sum of Unique Elements
+- `Sum_of_gcd_of_formed_pairs_Leetcode_3867.java` – Sum of GCD of Formed Pairs
+- `ThreeSum_Leetcode_15.java` – 3Sum
 
-- Arrays
-- Strings
-- Linked Lists
-- Stack
-- Queue
-- Recursion
-- Binary Search
-- Hashing
-- Sorting
-- Trees
-- Binary Search Trees (BST)
-- Heaps
-- Graphs
-- Dynamic Programming (DP)
-- Greedy Algorithms
-- Backtracking
-- Bit Manipulation
-- Tries
-- Sliding Window
-- Two Pointers
+## Key Learnings
+
+- Array Traversal
+- Two Pointer Technique
 - Prefix Sum
-- Miscellaneous
+- Sliding Window (Basic)
+- Sorting-based Approaches
+- In-place Array Manipulation
+- Frequency Counting
+- Binary Search on Arrays
+- Greedy Thinking
+- Time and Space Complexity Analysis
 
 ---
 
-💻 Languages
+# 🎯 Goals
 
-Solutions may be implemented in:
-
-- C++
-- Java
-
----
-
-🚀 Progress
-
-This repository is continuously updated as I solve more problems.
+- Build strong DSA fundamentals using Java.
+- Solve interview-focused problems consistently.
+- Learn multiple approaches for the same problem.
+- Write clean, optimized, and readable code.
+- Improve analytical and problem-solving skills.
 
 ---
 
-⭐ Contributions
+# 📈 Progress
 
-This is a personal learning repository, but suggestions and improvements are always welcome. Feel free to open an issue or submit a pull request.
+- ✅ Arrays Completed (**26 Problems**)
+- 🚧 More topics coming soon...
 
 ---
 
-📖 Happy Coding!
+# 💻 Language
 
-«"Consistency beats intensity. Solve one problem every day and keep improving!"»
+- **Java**
+
+---
+
+# 🎯 Long-Term Goal
+
+To become interview-ready with strong problem-solving skills, optimized coding techniques, and a deep understanding of Data Structures and Algorithms.
+
+---
+
+# 📌 Note
+
+- This repository is actively updated as I continue my DSA journey.
+- Every solution is implemented in **Java**.
+- More topics and interview questions will be added regularly.
