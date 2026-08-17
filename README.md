@@ -9,7 +9,7 @@ Currently, I have completed the **Arrays** topic and will continue adding more t
 # 🚀 Journey Roadmap
 
 - [x] Arrays
-- [ ] Strings
+- [x] Strings
 - [ ] Recursion
 - [ ] Searching
 - [ ] Sorting
