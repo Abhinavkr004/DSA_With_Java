@@ -2,7 +2,7 @@
 
 This repository documents my **Data Structures and Algorithms (DSA)** journey using **Java**. It serves as a collection of coding practice, optimized solutions, and notes as I strengthen my understanding of core DSA concepts.
 
-Currently, I have completed the **Arrays, Strings, and Recursion** topics and will continue adding more topics as I progress.
+Currently, I have completed the **Arrays, Strings, Recursion, Searching, Sorting, and Binary Search** topics and will continue adding more topics as I progress.
 
 ---
 
@@ -11,8 +11,8 @@ Currently, I have completed the **Arrays, Strings, and Recursion** topics and wi
 * [x] Arrays
 * [x] Strings
 * [x] Recursion
-* [ ] Searching
-* [ ] Sorting
+* [x] Searching
+* [x] Sorting
 * [ ] Binary Search
 * [ ] Linked List
 * [ ] Stack
@@ -138,7 +138,7 @@ This phase focuses on string manipulation, character frequency, hashing, palindr
 
 **Folder:** `Recursion & Backtracking/`
 
-This phase focuses on understanding recursion, recursive problem-solving, mathematical recursion, subsequences, permutations, and the foundation of backtracking techniques.
+This phase focuses on understanding recursion, recursive problem-solving, mathematical recursion, subsequences, combinations, and the foundation of backtracking techniques.
 
 ## Problems Solved
 
@@ -163,6 +163,42 @@ This phase focuses on understanding recursion, recursive problem-solving, mathem
 
 ---
 
+# 📕 Phase 4: Searching & Sorting
+
+**Folder:** `Searching & Sorting/`
+
+This phase focuses on fundamental searching and sorting algorithms, along with common binary search problems frequently asked in coding interviews.
+
+## Searching Problems
+
+* `LinearSearch.java` – Linear Search
+* `BinarySearch_Leetcode_704.java` – Binary Search
+* `Search_Insert_Position_Leetcode_35.java` – Search Insert Position
+
+## Sorting Problems
+
+* `BubbleSort.java` – Bubble Sort
+* `InsertionSort.java` – Insertion Sort
+* `SelectionSort.java` – Selection Sort
+* `MergeSort.java` – Merge Sort
+
+## Key Learnings
+
+* Linear Search
+* Binary Search
+* Search Insert Position
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Merge Sort
+* Divide and Conquer
+* In-place Sorting
+* Stable Sorting
+* Best, Average, and Worst Case Analysis
+* Time and Space Complexity Analysis
+
+---
+
 # 🎯 Goals
 
 * Build strong DSA fundamentals using Java.
@@ -178,7 +214,8 @@ This phase focuses on understanding recursion, recursive problem-solving, mathem
 * ✅ Arrays Completed (**26 Problems**)
 * ✅ Strings Completed (**11 Problems**)
 * ✅ Recursion Completed (**5 Problems**)
-* 📊 Total Problems Solved: **42**
+* ✅ Searching & Sorting Completed (**7 Problems**)
+* 📊 Total Problems Solved: **49**
 * 🚧 More topics coming soon...
 
 ---
