@@ -2,7 +2,7 @@
 
 This repository documents my **Data Structures and Algorithms (DSA)** journey using **Java**. It serves as a collection of coding practice, optimized solutions, and notes as I strengthen my understanding of core DSA concepts.
 
-Currently, I have completed the **Arrays** and **Strings** topics and will continue adding more topics as I progress.
+Currently, I have completed the **Arrays, Strings, and Recursion** topics and will continue adding more topics as I progress.
 
 ---
 
@@ -10,7 +10,7 @@ Currently, I have completed the **Arrays** and **Strings** topics and will conti
 
 * [x] Arrays
 * [x] Strings
-* [ ] Recursion
+* [x] Recursion
 * [ ] Searching
 * [ ] Sorting
 * [ ] Binary Search
@@ -134,6 +134,35 @@ This phase focuses on string manipulation, character frequency, hashing, palindr
 
 ---
 
+# 📙 Phase 3: Recursion
+
+**Folder:** `Recursion & Backtracking/`
+
+This phase focuses on understanding recursion, recursive problem-solving, mathematical recursion, subsequences, permutations, and the foundation of backtracking techniques.
+
+## Problems Solved
+
+* `Find_Factorial.java` – Find Factorial Using Recursion
+* `Find_Fibonacci_Number.java` – Find Fibonacci Number Using Recursion
+* `Find_SubSequence.java` – Find Subsequences
+* `Combination_Sum_Leetcode_39.java` – Combination Sum
+* `Combination_Sum_2_Leetcode_40.java` – Combination Sum II
+
+## Key Learnings
+
+* Understanding Recursion
+* Base Case and Recursive Case
+* Recursive Tree
+* Recursion Stack
+* Mathematical Recursion
+* Fibonacci and Factorial
+* Generating Subsequences
+* Combination Problems
+* Backtracking Fundamentals
+* Time and Space Complexity Analysis
+
+---
+
 # 🎯 Goals
 
 * Build strong DSA fundamentals using Java.
@@ -148,7 +177,8 @@ This phase focuses on string manipulation, character frequency, hashing, palindr
 
 * ✅ Arrays Completed (**26 Problems**)
 * ✅ Strings Completed (**11 Problems**)
-* 📊 Total Problems Solved: **37**
+* ✅ Recursion Completed (**5 Problems**)
+* 📊 Total Problems Solved: **42**
 * 🚧 More topics coming soon...
 
 ---
