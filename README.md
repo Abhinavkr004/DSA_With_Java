@@ -32,8 +32,20 @@ Currently, I have completed the **Arrays** topic and will continue adding more t
 ```text
 DSA/
 └── Arrays/
+└── Strings/
+└── Recursion & Backtracking/
+└── Searching/
+└── Sorting/
+└── Binary Search/
+└── Linked List/
+└── Stack & Queue/
+└── Hashing/
+└── Trees/
+└── Heap / Priority Queue/
+└── Graphs/
+└── Dynamic Programming/
+└── Greedy Algorithms/
 ```
-
 ---
 
 # 📘 Phase 1: Arrays
