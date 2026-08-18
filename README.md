@@ -34,8 +34,7 @@ DSA/
 ├── Arrays/
 ├── Strings/
 ├── Recursion & Backtracking/
-├── Searching/
-├── Sorting/
+├── Searching & Sorting/
 ├── Binary Search/
 ├── Linked List/
 ├── Stack & Queue/
