@@ -2,6 +2,8 @@
 
 This repository documents my **Data Structures and Algorithms (DSA)** journey using **Java**. It serves as a collection of coding practice, optimized solutions, and notes as I strengthen my understanding of core DSA concepts.
 
+Additionally, I regularly practice problem-solving to improve my logical thinking and coding efficiency.
+
 Currently, I have completed the **Arrays, Strings, Recursion, Searching, Sorting, and Binary Search** topics and will continue adding more topics as I progress.
 
 ---
@@ -13,7 +15,7 @@ Currently, I have completed the **Arrays, Strings, Recursion, Searching, Sorting
 * [x] Recursion
 * [x] Searching
 * [x] Sorting
-* [ ] Binary Search
+* [x] Binary Search
 * [ ] Linked List
 * [ ] Stack
 * [ ] Queue
@@ -44,13 +46,13 @@ DSA/
 ├── Graphs/
 ├── Dynamic Programming/
 └── Greedy Algorithms/
-```
 
+```
 ---
 
 # 📘 Phase 1: Arrays
 
-**Folder:** `Arrays/`
+**Folder:** Arrays/
 
 This phase focuses on building a strong foundation in array manipulation, searching, sorting techniques, two-pointer approaches, and interview-based problem-solving patterns.
 
@@ -100,7 +102,7 @@ This phase focuses on building a strong foundation in array manipulation, search
 
 # 📗 Phase 2: Strings
 
-**Folder:** `Strings/`
+**Folder:** Strings/
 
 This phase focuses on string manipulation, character frequency, hashing, palindrome checking, string comparison, and common interview-based string problems.
 
@@ -136,7 +138,7 @@ This phase focuses on string manipulation, character frequency, hashing, palindr
 
 # 📙 Phase 3: Recursion
 
-**Folder:** `Recursion & Backtracking/`
+**Folder:** Recursion & Backtracking/
 
 This phase focuses on understanding recursion, recursive problem-solving, mathematical recursion, subsequences, combinations, and the foundation of backtracking techniques.
 
@@ -165,7 +167,7 @@ This phase focuses on understanding recursion, recursive problem-solving, mathem
 
 # 📕 Phase 4: Searching & Sorting
 
-**Folder:** `Searching & Sorting/`
+**Folder:** Searching & Sorting/
 
 This phase focuses on fundamental searching and sorting algorithms, along with common binary search problems frequently asked in coding interviews.
 
@@ -199,6 +201,41 @@ This phase focuses on fundamental searching and sorting algorithms, along with c
 
 ---
 
+# 📔 Phase 5: Binary Search
+
+**Folder:** `Binary Search/`
+
+This phase focuses on binary search problems, searching in rotated sorted arrays, finding peak elements, finding boundaries, and applying binary search to different problem-solving patterns.
+
+## Problems Solved
+
+* `Find_First_And_Last_Position_Of_Element_In_Sorted_Array_Leetcode_34.java` – Find First and Last Position of Element in Sorted Array
+* `Find_K_Closest_Elements_Leetcode_658.java` – Find K Closest Elements
+* `Find_Minimum_In_Rotated_Sorted_Array_Leetcode_153.java` – Find Minimum in Rotated Sorted Array
+* `Find_Peak_Element_Leetcode_162.java` – Find Peak Element
+* `GuessNumberHigherOrLower_Leetcode_374.java` – Guess Number Higher or Lower
+* `Peak_Index_In_A_Mountain_Array_Leetcode_852.java` – Peak Index in a Mountain Array
+* `Search_In_Rotated_Sorted_Array_Leetcode_33.java` – Search in Rotated Sorted Array
+* `Single_Element_In_A_Sorted_Array_Leetcode_540.java` – Single Element in a Sorted Array
+* `Sqrt_Leetcode_69.java` – Sqrt(x)
+
+## Key Learnings
+
+* Binary Search Fundamentals
+* Search Space Reduction
+* Finding First and Last Occurrence
+* Lower Bound and Upper Bound
+* Binary Search on Rotated Arrays
+* Finding Minimum in Rotated Arrays
+* Finding Peak Elements
+* Binary Search on Answer
+* Finding K Closest Elements
+* Integer Square Root Using Binary Search
+* Handling Search Boundaries
+* Time and Space Complexity Analysis
+  
+---
+
 # 🎯 Goals
 
 * Build strong DSA fundamentals using Java.
@@ -215,7 +252,8 @@ This phase focuses on fundamental searching and sorting algorithms, along with c
 * ✅ Strings Completed (**11 Problems**)
 * ✅ Recursion Completed (**5 Problems**)
 * ✅ Searching & Sorting Completed (**7 Problems**)
-* 📊 Total Problems Solved: **49**
+* ✅ Binary Search Completed (**9 Problems**)
+* 📊 Total Problems Solved: **58**
 * 🚧 More topics coming soon...
 
 ---
@@ -237,3 +275,4 @@ To become interview-ready with strong problem-solving skills, optimized coding t
 * This repository is actively updated as I continue my DSA journey.
 * Every solution is implemented in **Java**.
 * More topics and interview questions will be added regularly.
+add these questions in my readme file
