@@ -2,6 +2,8 @@
 
 This repository documents my **Data Structures and Algorithms (DSA)** journey using **Java**. It serves as a collection of coding practice, optimized solutions, and notes as I strengthen my understanding of core DSA concepts.
 
+Additionally, I regularly practice problem-solving to improve my logical thinking and coding efficiency.
+
 Currently, I have completed the **Arrays, Strings, Recursion, Searching, Sorting, and Binary Search** topics and will continue adding more topics as I progress.
 
 ---
