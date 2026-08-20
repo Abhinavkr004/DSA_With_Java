@@ -231,7 +231,9 @@ This phase focuses on binary search problems, searching in rotated sorted arrays
 * Integer Square Root Using Binary Search
 * Handling Search Boundaries
 * Time and Space Complexity Analysis
+  
 ---
+
 # 🎯 Goals
 
 * Build strong DSA fundamentals using Java.
@@ -239,7 +241,9 @@ This phase focuses on binary search problems, searching in rotated sorted arrays
 * Learn multiple approaches for the same problem.
 * Write clean, optimized, and readable code.
 * Improve analytical and problem-solving skills.
+
 ---
+
 # 📈 Progress
 
 * ✅ Arrays Completed (**26 Problems**)
