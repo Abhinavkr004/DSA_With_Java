@@ -22,3 +22,7 @@ class Container_With_Most_Water_Leetcode_11{
         System.out.println(res);
     }
 }
+
+// Using Two pointers Approach
+// TC : O(n)
+// SC : O(1)
