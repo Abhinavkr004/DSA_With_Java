@@ -4,8 +4,8 @@ import java.util.ArrayList;
 
 public class TwoSum {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		//brute force solution
+		
 //		int [] nums = {1,2,3,1};
 //		int n = nums.length;
 //		int k = 2;
@@ -21,7 +21,11 @@ public class TwoSum {
 //		}
 //		System.out.println(Arrays.toString(arr));
 		
+// TC : O(n^2)
+// SC : O(1)
+		
 		//Better solution
+		
 		ArrayList<Integer> nums = new ArrayList<>();
 		nums.add(1);
 		nums.add(2);
@@ -44,3 +48,5 @@ public class TwoSum {
 		System.out.println(temp);	
 	}
 }
+// TC : O(n)
+// SC : O(n) by using of hashMap
