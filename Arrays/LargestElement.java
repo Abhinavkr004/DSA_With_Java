@@ -10,3 +10,4 @@ public class LargestElement {
 		System.out.println("Largest element of your array is: " + largest);
 	}
 }
+// TC : O(n)
