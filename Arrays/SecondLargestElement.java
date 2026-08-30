@@ -53,3 +53,6 @@ public class SecondLargestElement {
 		System.out.println("Second Smallest element of your array is: " + sSmallest);
 	}
 }
+
+// TC : O(n)
+// SC : O(1)
