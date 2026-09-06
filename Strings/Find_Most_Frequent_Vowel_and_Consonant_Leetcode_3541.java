@@ -26,3 +26,5 @@ class Find_Most_Frequent_Vowel_and_Consonant_Leetcode_3541 {
         System.out.println(res);
     }
 }
+// TC : O(n)
+// SC : O(n)
