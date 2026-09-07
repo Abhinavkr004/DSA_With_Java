@@ -23,3 +23,5 @@ public class Jewels_And_Stones_Leetcode_771 {
         System.out.println(res);
     }
 }
+// TC : O(n) + O(n) = O(n)
+// SC : O(n) because using hashMap

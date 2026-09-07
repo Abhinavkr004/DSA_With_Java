@@ -28,3 +28,5 @@ class Valid_Palindrome_Leetcode_125 {
         System.out.println(res);
     }
 }
+// TC : O(n)
+// SC : O(1)

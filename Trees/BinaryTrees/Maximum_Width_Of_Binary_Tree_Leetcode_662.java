@@ -66,3 +66,6 @@ public class Maximum_Width_Of_Binary_Tree_Leetcode_662 {
         System.out.println(res);
     }
 }
+
+// TC : O(n)
+// SC : O(n)
