@@ -20,3 +20,5 @@ public class Find_Words_Containing_Character_Leetcode_2942 {
         System.out.println(res);
     }
 }
+// TC : O(n)
+// SC : O(n) using ArrayList for storing the indices
