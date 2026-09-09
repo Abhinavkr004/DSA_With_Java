@@ -39,5 +39,7 @@ class Insert_In_BST_Leetcode_701 {
         }
         return root;
     }
-    
 }
+
+// TC : O(logn)
+// SC : O(1)
