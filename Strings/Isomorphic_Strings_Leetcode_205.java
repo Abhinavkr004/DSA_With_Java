@@ -27,5 +27,6 @@ public class Isomorphic_Strings_Leetcode_205 {
         boolean res = isIsomorphic(s,t);
         System.out.println(res);
     }
-    
 }
+// TC : O(n)
+// SC : O(1)
