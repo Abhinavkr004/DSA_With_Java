@@ -28,5 +28,6 @@ class Sum_of_gcd_of_formed_pairs_Leetcode_3867 {
         long res = gcdSum(nums);
         System.out.println(res);
     }
-    
 }
+// TC : O(n) + O(nlogn)
+// SC : O(n) using a array size of input
