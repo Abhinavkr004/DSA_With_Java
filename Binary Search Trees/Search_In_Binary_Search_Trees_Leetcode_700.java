@@ -40,3 +40,5 @@ class Search_In_Binary_Search_Trees_Leetcode_700 {
         }
     }
 }
+// TC : O(log n)
+// SC : O(1)
