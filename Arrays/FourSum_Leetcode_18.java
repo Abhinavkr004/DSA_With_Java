@@ -42,3 +42,5 @@ class FourSum_Leetcode_18 {
         System.out.println(list);
     }
 }
+// TC : O(nlogn) + O(n)
+// SC : O(n) demanded requirement of question otherwise O(1)
