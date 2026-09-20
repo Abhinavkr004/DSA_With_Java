@@ -3,6 +3,8 @@ import java.util.HashSet;
 
 public class Check_if_N_and_its_double_exist_Leetcode_1346 {
 	// Brute force
+	// TC : O(n^2)
+	// SC : O(1)
 	public static boolean isExist(int[] arr) { 
 		int n = arr.length;
 		for(int i=0;i<n;i++) {
