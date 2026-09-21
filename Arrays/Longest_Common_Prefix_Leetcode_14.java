@@ -16,3 +16,5 @@ class Longest_Common_Prefix_Leetcode_14{
         System.out.println(res);
     }
 }
+// Time Complexity : O(n)
+// Space Complexity : O(1)
