@@ -1,5 +1,6 @@
 public class Maximum_Subarray_Leetcode_53 {
     public static int maxSubArray(int[] nums) {
+        // Using kadane's algorithm
         int n = nums.length;
         int max = Integer.MIN_VALUE;
         int sum = 0;
@@ -18,3 +19,5 @@ public class Maximum_Subarray_Leetcode_53 {
         System.out.println(res);
     }
 }
+// Time Complexity : O(n)
+// Space Complexity : O(1)
