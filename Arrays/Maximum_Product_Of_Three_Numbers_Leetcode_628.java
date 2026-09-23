@@ -15,3 +15,6 @@ public class Maximum_Product_Of_Three_Numbers_Leetcode_628 {
         System.out.println(res);
     }
 }
+
+// Time Complexity : O(n logn) because using sorting
+// Space Complexity : O(1)
