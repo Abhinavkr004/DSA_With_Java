@@ -15,5 +15,5 @@ public class Best_Time_To_Buy_And_Sell_Stock_Leetcode_121 {
         System.out.println(res);
     }
 }
-// TC : O(n)
-// SC : O(1)
+// Time Complexity : O(n)
+// Space Complexity : O(1)
