@@ -1,6 +1,7 @@
 import java.util.HashMap;
 
 public class Length_Of_Longest_SubArray_With_Atmost_K_Frequency_lLeetcode_2958 {
+    // Pattern : SLIDING WINDOW WITH HASHMAP
     public static int maxSubarrayLength(int[] nums, int k) {
         HashMap<Integer, Integer> map = new HashMap<>();
         int len = 0;
@@ -23,3 +24,5 @@ public class Length_Of_Longest_SubArray_With_Atmost_K_Frequency_lLeetcode_2958 {
         System.out.println(res);
     }
 }
+// Time Complexity : O(n)
+// Space Complexity : O(n) because of using hashmap
