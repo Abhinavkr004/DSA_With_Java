@@ -1,4 +1,5 @@
 public class Majority_Element_Leetcode_169 {
+    // Moore's Voting Algorithm
     public static int majorityElement(int[] nums) {
         int candidate = 0;
         int count = 0;
@@ -20,5 +21,6 @@ public class Majority_Element_Leetcode_169 {
         int res = majorityElement(nums);
         System.out.println(res);
     }
-    
 }
+// Time Complexity : O(n)
+// Space Complexity : O(1)
