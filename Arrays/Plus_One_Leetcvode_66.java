@@ -20,3 +20,5 @@ public class Plus_One_Leetcvode_66 {
         System.out.println(Arrays.toString(res));
     }
 }
+// Time Complexity : O(n)
+// Space Complexity : O(1)
