@@ -33,8 +33,8 @@ public class Sum_Of_Unique_Elements_Leetcode_1748 {
         return total;
     }
 
-    // TC : O(n)
-    // SC : O(n)
+    // Time Complexity : O(n)
+    // Space Complexity : O(n)
     public static void main(String[] args) {
         int[] nums = {1,2,3,2};
         int res = sumOfUnique(nums);
