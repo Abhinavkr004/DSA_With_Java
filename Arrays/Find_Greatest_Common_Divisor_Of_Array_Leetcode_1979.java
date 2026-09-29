@@ -18,5 +18,5 @@ public class Find_Greatest_Common_Divisor_Of_Array_Leetcode_1979 {
         System.out.println(res);
     }
 }
-//TC : O(n+log(m))
-//SC : O(log m) because of recursion
+//Time Complexity : O(n+log(m))
+//Space Complexity : O(log m) because of recursion
