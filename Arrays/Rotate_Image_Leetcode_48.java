@@ -35,3 +35,5 @@ class Rotate_Image_Leetcode_48 {
         rotate(matrix);
     }
 }
+// Time Complexity : O(n^2)
+// Space Complexity : O(1)
