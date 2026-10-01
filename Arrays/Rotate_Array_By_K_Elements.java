@@ -1,5 +1,7 @@
 import java.util.Scanner;
 public class Rotate_Array_By_K_Elements {
+    // Time Complexity : O(n)
+    // Space Complexity : O(1)
     public static int[] reverse(int[] nums, int l, int r){
         while(l<=r){
             int temp = nums[l];
