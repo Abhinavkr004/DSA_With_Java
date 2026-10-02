@@ -25,7 +25,9 @@ public class Sort_Colors_Leetcode_75 {
 		}
 		System.out.println(Arrays.toString(nums));
 		
-		//Most Optimal solution
+		//Most Optimal solution using Dutch National FLag Algorithm
+		// Time Complexity : O(n)
+		// Space Complexity : O(1)
 		int [] nums1 = {1,0,2,2,1,1,2,0,0,2,0,1};
 		int n = nums1.length;
 		int low = 0, mid = 0,high = n-1;
