@@ -48,5 +48,5 @@ public class TwoSum {
 		System.out.println(temp);	
 	}
 }
-// TC : O(n)
-// SC : O(n) by using of hashMap
+// Time Complexity : O(n)
+// Space Complexity : O(n) by using of hashMap
