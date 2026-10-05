@@ -36,3 +36,5 @@ class ThreeSum_Leetcode_15 {
         System.out.println(list);
     }
 }
+// Time Complexity : O(nlogn) + O(n)
+// Space Complexity : O(1) 
