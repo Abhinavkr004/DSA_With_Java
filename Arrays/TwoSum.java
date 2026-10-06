@@ -21,8 +21,8 @@ public class TwoSum {
 //		}
 //		System.out.println(Arrays.toString(arr));
 		
-// TC : O(n^2)
-// SC : O(1)
+// Time Complexity : O(n^2)
+// Space Complexity : O(1)
 		
 		//Better solution
 		
