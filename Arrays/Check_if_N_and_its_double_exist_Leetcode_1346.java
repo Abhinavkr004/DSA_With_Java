@@ -18,6 +18,8 @@ public class Check_if_N_and_its_double_exist_Leetcode_1346 {
 	}
 	
 	// Better solution
+	// Time Complexity : O(nlog n) + O(1)
+	// Space Complexity : O(1)
 	public static boolean isExist2(int[] arr) {
 		Arrays.sort(arr);
 		int n = arr.length;
