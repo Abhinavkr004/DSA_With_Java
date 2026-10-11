@@ -44,5 +44,5 @@ class Find_First_And_Last_Position_Of_Element_In_Sorted_Array_Leetcode_34 {
     }    
 }
 
-// TC : O(log n)*2
-// SC : O(2) for upperBound and lowerBound
+// Time Complexity : O(log n)*2
+// Space Complexity : O(2) for upperBound and lowerBound (constant space)
