@@ -19,5 +19,5 @@ public class Sqrtx_Leetcode_69 {
     }
 }
 
-// TC : O(log n)
-// SC : O(1)
+// Time Complexity : O(log n)
+// Space Complexity : O(1)
