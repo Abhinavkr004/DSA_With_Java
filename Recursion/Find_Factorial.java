@@ -13,5 +13,5 @@ class Find_Factorial {
     }
 }
 
-// TC : O(n)
-// SC : O(n) auxiliary space of recursion
+// Time Complexity : O(n)
+// Space Complexity : O(n) auxiliary space of recursion
