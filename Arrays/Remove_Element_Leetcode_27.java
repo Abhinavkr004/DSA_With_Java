@@ -16,3 +16,6 @@ class Remove_Element_Leetcode_27 {
         System.out.println(res);
     }    
 }
+
+// Time Complexity : O(n)
+// Space Complexity : O(1)
