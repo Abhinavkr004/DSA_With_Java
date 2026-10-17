@@ -26,5 +26,5 @@ class Reverse_String_2_Leetcode_541 {
         System.out.println(res);
     }
 }
-// TC : O(n)
-// SC : O(1)
+// Time Complexity : O(n)
+// Space Complexity : O(1)
