@@ -21,5 +21,5 @@ class Length_Of_Last_Word_Leetcode_58 {
     }
 }
 
-// TC : O(n)
-// SC : O(1)
+// Time Complexity : O(n)
+// Space Complexity : O(1)
