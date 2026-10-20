@@ -19,5 +19,5 @@ class Longest_Common_Prefix_Leetcode_14 {
     }    
 }
 
-// TC : O(n)
-// SC : O(1)
+// Time Complexity : O(n)
+// Space Complexity : O(1)
