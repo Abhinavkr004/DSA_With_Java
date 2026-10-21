@@ -27,5 +27,5 @@ class Split_a_String_in_Balanced_Strings_Leetcode_1221 {
         System.out.println(res);
     }
 }
-// TC : o(n)
-// SC : o(1)
+// Time Complexity : o(n)
+// Space Complexity : o(1)
