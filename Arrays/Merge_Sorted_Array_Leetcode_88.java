@@ -37,3 +37,6 @@ class Merge_Sorted_Array_Leetcode_88{
         merge(nums1,m,nums2,n); 
     }
 }
+
+// Time Complexity : O(n) till completion of atleast one array and O(n) for remaining elements of second array = O(n)
+// Space Complexity : O(1) No Usage of any Extra Space
