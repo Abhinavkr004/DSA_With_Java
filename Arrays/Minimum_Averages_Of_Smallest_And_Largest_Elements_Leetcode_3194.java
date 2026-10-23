@@ -13,8 +13,8 @@ public class Minimum_Averages_Of_Smallest_And_Largest_Elements_Leetcode_3194 {
         }
         return min;
     }
-    // TC : O(nlogn + n)
-    // SC : O(1)
+    // Time Complexity : O(nlogn + n) explanation: O(nlogn) is for sorting and then we are using two pointers approach so O(n) for that as well. 
+    // Space Complexity : O(1) explanation: we are not taking any extra space here that's why O(1) space complexity.
     public static void main(String[] args) {
         int[] nums = {7,8,3,4,15,13,4,1};
         double res = minimumAverage(nums);
