@@ -15,3 +15,5 @@ class Remove_Duplicate_from_Sorted_Array_Leetcode_26{
         System.out.println(res);
     }
 }
+// Time Complexity : O(n) Traversing only one time in Array
+// Space Complexity : O(1) not using any extra space.
