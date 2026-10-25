@@ -26,5 +26,5 @@ public class Rank_TransForm_Of_an_Array_Leetcode_1331 {
         System.out.println(Arrays.toString(res));
     }   
 }
-// Time complexity :- O(nlog n)
-// space complexity :- O(n)
+// Time complexity :- O(nlogn) for sorting 
+// space complexity :- O(n) for using HashMap
