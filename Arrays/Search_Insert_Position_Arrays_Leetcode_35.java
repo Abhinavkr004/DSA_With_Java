@@ -26,5 +26,5 @@ class Search_Insert_Position_Arrays_Leetcode_35 {
         System.out.println(res);
     }
 }
-//Time complexity :- O(log n)
-//Space complexity :- O(1)
+// Time complexity :- O(log n) because using binary search here
+// Space complexity :- O(1) because we are not taking any extra space here
