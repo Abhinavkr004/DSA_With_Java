@@ -24,7 +24,7 @@ public class TwoSum {
 // Time Complexity : O(n^2)
 // Space Complexity : O(1)
 		
-		//Better solution
+		//Optimal Solution
 		
 		ArrayList<Integer> nums = new ArrayList<>();
 		nums.add(1);
@@ -49,4 +49,4 @@ public class TwoSum {
 	}
 }
 // Time Complexity : O(n)
-// Space Complexity : O(n) by using of hashMap
+// Space Complexity : O(n) by taking usage of hashMap
