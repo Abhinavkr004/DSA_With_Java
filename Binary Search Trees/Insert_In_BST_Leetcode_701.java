@@ -41,5 +41,5 @@ class Insert_In_BST_Leetcode_701 {
     }
 }
 
-// TC : O(logn)
-// SC : O(1)
+// Time Complexity : O(logn)
+// Space Complexity : O(1)
