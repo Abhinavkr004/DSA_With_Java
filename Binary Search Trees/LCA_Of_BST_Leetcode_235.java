@@ -25,5 +25,5 @@ class LCA_Of_BST_Leetcode_235 {
         }
     }
 }
-// TC : O(logn)
-// SC : O(1) only using recursion stack space
+// Time Complexity : O(logn)
+// Space Complexity : O(1) only using recursion stack space
