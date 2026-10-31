@@ -28,5 +28,5 @@ class Valid_Palindrome_Leetcode_125 {
         System.out.println(res);
     }
 }
-// TC : O(n)
-// SC : O(1)
+// Time Complexity : O(n)
+// Space Complexity : O(1)
