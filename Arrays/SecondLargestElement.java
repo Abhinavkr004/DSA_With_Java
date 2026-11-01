@@ -54,5 +54,5 @@ public class SecondLargestElement {
 	}
 }
 
-// TC : O(n)
-// SC : O(1)
+// Time Complexity : O(n)
+// Space omplexity : O(1)
