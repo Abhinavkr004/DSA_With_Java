@@ -12,3 +12,5 @@ class Find_Fibonacci_Number {
         System.out.println(res);
     }
 }
+// Time Complexity : O(2^n)
+// Space Complexity : O(n) Using Stack Space only
