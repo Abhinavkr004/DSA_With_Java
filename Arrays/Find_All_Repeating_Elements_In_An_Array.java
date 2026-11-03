@@ -27,3 +27,5 @@ public class Find_All_Repeating_Elements_In_An_Array {
         sc.close();
     }
 }
+// Time Complexity : O(n) 
+// Space Complexity : O(n) Using ArrayList and HashMap
