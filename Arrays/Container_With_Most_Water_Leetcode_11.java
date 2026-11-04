@@ -24,5 +24,5 @@ class Container_With_Most_Water_Leetcode_11{
 }
 
 // Using Two pointers Approach
-// TC : O(n)
-// SC : O(1)
+// Time Complexity : O(n)
+// Space Compplexity : O(1)
