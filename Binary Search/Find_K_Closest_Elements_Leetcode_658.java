@@ -54,5 +54,5 @@ class Find_K_Closest_Elements_Leetcode_658 {
     }    
 }
 
-// TC : O(log n)
-// SC : O(1)
+// Time Complexity : O(log n)
+// Space Complexity : O(1)
