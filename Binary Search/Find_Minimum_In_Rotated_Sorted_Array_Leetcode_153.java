@@ -26,5 +26,5 @@ class Find_Minimum_In_Rotated_Sorted_Array_Leetcode_153 {
         return ans;
     }    
 }
-// TC : O(log n)
-// SC : O(1)
+// Time Complexity : O(log n)
+// Space Complexity : O(1)
