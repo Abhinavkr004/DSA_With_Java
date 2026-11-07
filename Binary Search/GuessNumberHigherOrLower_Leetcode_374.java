@@ -29,5 +29,5 @@ public class GuessNumberHigherOrLower_Leetcode_374 extends GuessGame{
     }    
 }
 
-// TC : O(log n)
+// Time Complexity : O(log n)
 // SC : O(1)
