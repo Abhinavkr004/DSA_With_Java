@@ -30,4 +30,4 @@ public class GuessNumberHigherOrLower_Leetcode_374 extends GuessGame{
 }
 
 // Time Complexity : O(log n)
-// SC : O(1)
+// Space Complexity : O(1)
