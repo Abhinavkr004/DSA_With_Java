@@ -21,5 +21,5 @@ class Peak_Index_In_A_Mountain_Array_Leetcode_852 {
     }    
 }
 
-// TC : O(log n)
+// Time Complexity : O(log n)
 // SC : O(1)
