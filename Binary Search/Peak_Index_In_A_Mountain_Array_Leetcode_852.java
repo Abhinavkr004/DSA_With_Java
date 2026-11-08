@@ -22,4 +22,4 @@ class Peak_Index_In_A_Mountain_Array_Leetcode_852 {
 }
 
 // Time Complexity : O(log n)
-// SC : O(1)
+// Space Complexity : O(1)
