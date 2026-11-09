@@ -35,4 +35,5 @@ class Search_In_Rotated_Sorted_Array_Leetcode_33 {
         System.out.println(res);
     }
 }
-//Time Complexity : O(log n)
+// Time Complexity : O(log n) using Binary Search 
+// Space Complexity : O(1) we are not taking any extra space here
