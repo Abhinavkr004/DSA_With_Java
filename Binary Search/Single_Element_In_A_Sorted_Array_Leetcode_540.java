@@ -26,4 +26,4 @@ class Single_Element_In_A_Sorted_Array_Leetcode_540 {
     }    
 }
 // Time Complexity : O(log n)
-// SC : O(1)
+// Space Complexity : O(1)
