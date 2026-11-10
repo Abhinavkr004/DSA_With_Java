@@ -10,7 +10,7 @@ class Single_Element_In_A_Sorted_Array_Leetcode_540 {
 		}
 		int low = 1;
 		int high = n-2;
-		while(low<= high) {
+		while(low <= high) {
 			int mid = low+(high-low)/2;
 			if(nums[mid] != nums[mid-1] && nums[mid] != nums[mid+1]) { 
 				return nums[mid];
@@ -25,5 +25,5 @@ class Single_Element_In_A_Sorted_Array_Leetcode_540 {
 		return -1;
     }    
 }
-// TC : O(log n)
+// Time Complexity : O(log n)
 // SC : O(1)
