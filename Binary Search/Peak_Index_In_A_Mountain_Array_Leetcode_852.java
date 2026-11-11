@@ -21,5 +21,5 @@ class Peak_Index_In_A_Mountain_Array_Leetcode_852 {
     }    
 }
 
-// Time Complexity : O(log n)
-// Space Complexity : O(1)
+// Time Complexity : O(log n) for using binary Search
+// Space Complexity : O(1) not using any space here
