@@ -8,8 +8,8 @@ class Valid_Mountain_Array_Leetcode_941 {
         }
         return largest;
     }
-// TC : O(n)
-// SC : O(1)    
+// Time Complexity : O(n)
+// Space Complexity : O(1)    
     public static boolean validMountainArray(int[] arr) {
         if (arr.length < 3) {
             return false;
@@ -57,8 +57,8 @@ class Valid_Mountain_Array_Leetcode_941 {
     //     return i==n-1;
     // }
 
-    // TC : O(n)
-    // SC : O(1)
+    // Time Complexity : O(n)
+    // Space Complexity : O(1)
     public static void main(String[] args) {
         int[] arr = {0,3,2,1};
         boolean res = validMountainArray(arr);
