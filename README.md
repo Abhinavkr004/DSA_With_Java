@@ -1,6 +1,6 @@
 # DSA with Java ☕
 
-This repository documents my **Data Structures and Algorithms (DSA)** journey using **Java**. It serves as a collection of coding practice, optimized solutions, and notes as I strengthen my understanding of core DSA concepts.
+This repository documents my **Data Structures and Algorithms (DSA)** journey using **Java**. It serves the collection of coding practice, optimized solutions, and notes as I strengthen my understanding of core DSA concepts.
 
 Additionally, I regularly practice problem-solving to improve my logical thinking and coding efficiency.
 
