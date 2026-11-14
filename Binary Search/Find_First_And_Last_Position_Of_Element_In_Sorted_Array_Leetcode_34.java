@@ -1,4 +1,5 @@
 class Find_First_And_Last_Position_Of_Element_In_Sorted_Array_Leetcode_34 {
+    // TC : O(log n)
     public int lowerBound(int[] nums, int n, int target){
         int low = 0;
         int high = n-1;
@@ -18,6 +19,7 @@ class Find_First_And_Last_Position_Of_Element_In_Sorted_Array_Leetcode_34 {
         }
         return first;
     }
+    // TC : O(log n)
     public int upperBound(int[] nums, int n, int target){
         int low = 0;
         int high = n-1;
