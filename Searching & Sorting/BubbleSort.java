@@ -15,5 +15,5 @@ class BubbleSort {
         System.out.println(Arrays.toString(arr));
     }    
 }
-// TC :O(n^2)
+// Time Complexity :O(n^2)
 // SC : O(1)
