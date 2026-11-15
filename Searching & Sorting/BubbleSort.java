@@ -16,4 +16,4 @@ class BubbleSort {
     }    
 }
 // Time Complexity :O(n^2)
-// SC : O(1)
+// Space Complexity : O(1)
