@@ -15,5 +15,5 @@ class InsertionSort {
         System.out.println(Arrays.toString(arr));
     }
 }
-// TC : O(n) best case and O(n^2) worst case
-// SC : O(1)
+// Time Complexity : O(n) best case and O(n^2) worst case
+// Space Complexity : O(1)
