@@ -11,5 +11,5 @@ class LinearSearch {
     }  
 }
 
-// TC : O(n)
-// SC : O(1)
+// Time Complexity : O(n)
+// Space Complexity : O(1)
