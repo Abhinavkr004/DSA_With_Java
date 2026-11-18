@@ -58,5 +58,5 @@ class MergeSort {
         System.out.println(Arrays.toString(arr));
     }    
 }
-// TC : O(n logn)
-// SC : O(n)
+// Time Complexity : O(n logn)
+// Space Complexity : O(n)
