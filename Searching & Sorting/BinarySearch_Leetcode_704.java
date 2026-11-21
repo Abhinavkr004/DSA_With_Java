@@ -16,5 +16,5 @@ public class BinarySearch_Leetcode_704 {
     }
 }
 
-// TC : O(log n)
-// SC : O(1)
+// Time Complexity : O(log n)
+// Space Complexity : O(1)
