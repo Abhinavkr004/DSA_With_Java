@@ -39,8 +39,8 @@ class Valid_Mountain_Array_Leetcode_941 {
         }
         return true;
     }
-    // TC : O(n) but n^2 in worst case
-    // SC : O(1)
+    // Time Complexity : O(n) but n^2 in worst case
+    // Space Complexity : O(1)
     
     // public static boolean validMountainArray(int[] arr) {
     //     int n=arr.length;
