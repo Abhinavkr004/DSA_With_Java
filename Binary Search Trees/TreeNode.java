@@ -22,3 +22,5 @@ class Validate_Binary_Search_Tree_Leetcode_98 {
         return isValid(root,Long.MIN_VALUE, Long.MAX_VALUE);
     }
 }
+// TC : o(n)
+// SC : o(h), where h is the height of the tree
