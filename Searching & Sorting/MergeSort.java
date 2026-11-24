@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-// Used when there are large amount of elements present
+// Use this algorithm when there are large amount of elements present in array
 class MergeSort {
     public static void Merge(int [] arr , int low, int mid, int high) {
 		int n1 = mid - low + 1;
