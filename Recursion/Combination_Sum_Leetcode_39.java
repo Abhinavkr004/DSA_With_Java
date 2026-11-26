@@ -29,3 +29,5 @@ class Combination_Sum_Leetcode_39 {
         System.out.println(res);
     }
 }
+// Time Complexity : O(2^n) loose upper bound for the recursive search
+// Space Complexity : O(n) using list of list and stack space too
